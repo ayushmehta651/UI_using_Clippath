@@ -1,4 +1,4 @@
-# friendship_calculator
+# UI using Clippath
 
 A new Flutter project.
 
